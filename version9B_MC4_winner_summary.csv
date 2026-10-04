@@ -1,0 +1,3 @@
+"noise_scenario","best_RMSE_model","best_RMSE","best_MAE_model","best_MAE","narrowest_calibrated_95_model","calibrated_95_width","calibrated_95_coverage"
+"Gaussian","Score OffDef Ridge",2.19935979887462,"Score OffDef Ridge",1.75951215997751,"Score OffDef Ridge",8.73105256580994,0.9575
+"Student_t4","Score OffDef Huber",1.97078457803204,"Score OffDef Huber",1.57060920170951,"Score OffDef Huber",7.6688989113705,0.947

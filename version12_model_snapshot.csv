@@ -1,0 +1,2 @@
+"production_season","publication_week","completed_games","teams","average_games_per_team","games_played_bucket","estimated_HFA","league_mean_points","predictive_margin_sd","learned_forecast_weight","fixed_probability_weight","probability_intercept","probability_slope","component_lambda","huber_k","recency_half_life","hfa_prior","calibration_start_season","calibration_end_season"
+2026,2,32,32,2,2,2.05142767697864,22.0618585521859,9.80070372815658,0.517991119598699,0.5,0.0614120170118494,1.050431317924,2,1.5,12,2.5,1999,2025

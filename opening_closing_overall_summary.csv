@@ -1,0 +1,2 @@
+games,seasons,mean_abs_model_open_edge,mean_abs_line_move,line_moved_games,directional_games,directional_matches,directional_match_pct,moved_toward_model_games,moved_away_from_model_games,no_distance_change_games,moved_toward_model_pct,mean_opening_distance_to_model,mean_closing_distance_to_model,mean_distance_reduction,model_MAE,opening_MAE,closing_MAE
+256,2021,3.9148613649999024,3.486328125,242,242,186,76.85950413223141,151,91,14,58.984375,3.9148613649999024,3.0003245995454253,0.9145367654544767,11.545598654821813,11.14453125,10.681640625

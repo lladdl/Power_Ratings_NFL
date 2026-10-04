@@ -1,0 +1,3 @@
+"model","mean_error_vs_SOS_slope","mean_error_vs_SOS_correlation","mean_absolute_slope","mean_absolute_correlation"
+"Opponent Adjusted",0.0560070969778824,0.0250033075766514,0.408888350939629,0.233132993241681
+"Naive Point Differential",-0.600286825264359,-0.359211709687992,0.695884225659724,0.396900871289973

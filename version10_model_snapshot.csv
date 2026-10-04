@@ -1,0 +1,2 @@
+"publication_week","completed_games","teams","average_games_per_team","estimated_HFA","league_mean_points","predictive_margin_sd","component_lambda","huber_k","recency_half_life","hfa_prior","hfa_lambda","model_converged","model_iterations","win_probability_intercept","win_probability_slope","rating_uncertainty_reference_teams","rating_uncertainty_reference_games"
+11,72,16,9,2.12841984356197,25.0484968598886,8.81045928536313,2,1.5,12,2.5,2,TRUE,18,0.0192183,1.440608,16,12

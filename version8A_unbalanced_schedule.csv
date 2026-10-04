@@ -1,0 +1,97 @@
+"round_type","original_round","team1","team2","matchup_type","division1","division2","active_round","week","home_team","away_team","pair_key","meeting_number","game_id"
+"Division",4,"Atlanta Firebirds","Boston Admirals","Protected Rival","Division A","Division A",1,1,"Atlanta Firebirds","Boston Admirals","Atlanta Firebirds|||Boston Admirals",1,1
+"Division",4,"Baltimore Brigade","Austin Outlaws","Protected Rival","Division A","Division A",1,1,"Austin Outlaws","Baltimore Brigade","Austin Outlaws|||Baltimore Brigade",1,2
+"Division",4,"Denver Peaks","Chicago Cougars","Protected Rival","Division B","Division B",1,1,"Denver Peaks","Chicago Cougars","Chicago Cougars|||Denver Peaks",1,3
+"Division",4,"Dallas Wranglers","Detroit Motors","Protected Rival","Division B","Division B",1,1,"Detroit Motors","Dallas Wranglers","Dallas Wranglers|||Detroit Motors",1,4
+"Division",4,"Nashville Knights","Minneapolis Northstars","Protected Rival","Division C","Division C",1,1,"Minneapolis Northstars","Nashville Knights","Minneapolis Northstars|||Nashville Knights",1,5
+"Division",4,"San Diego Sharks","Portland Pioneers","Protected Rival","Division D","Division D",1,1,"Portland Pioneers","San Diego Sharks","Portland Pioneers|||San Diego Sharks",1,6
+"Division",4,"Seattle Orcas","Phoenix Scorpions","Protected Rival","Division D","Division D",1,1,"Seattle Orcas","Phoenix Scorpions","Phoenix Scorpions|||Seattle Orcas",1,7
+"Division",4,"Miami Waves","Virginia Royals","Protected Rival","Division C","Division C",1,1,"Virginia Royals","Miami Waves","Miami Waves|||Virginia Royals",1,8
+"Division",7,"Atlanta Firebirds","Boston Admirals","Protected Rival","Division A","Division A",2,2,"Atlanta Firebirds","Boston Admirals","Atlanta Firebirds|||Boston Admirals",2,9
+"Division",7,"Baltimore Brigade","Austin Outlaws","Protected Rival","Division A","Division A",2,2,"Baltimore Brigade","Austin Outlaws","Austin Outlaws|||Baltimore Brigade",2,10
+"Division",7,"Dallas Wranglers","Detroit Motors","Protected Rival","Division B","Division B",2,2,"Dallas Wranglers","Detroit Motors","Dallas Wranglers|||Detroit Motors",2,11
+"Division",7,"Denver Peaks","Chicago Cougars","Protected Rival","Division B","Division B",2,2,"Denver Peaks","Chicago Cougars","Chicago Cougars|||Denver Peaks",2,12
+"Division",7,"Miami Waves","Virginia Royals","Protected Rival","Division C","Division C",2,2,"Miami Waves","Virginia Royals","Miami Waves|||Virginia Royals",2,13
+"Division",7,"Nashville Knights","Minneapolis Northstars","Protected Rival","Division C","Division C",2,2,"Minneapolis Northstars","Nashville Knights","Minneapolis Northstars|||Nashville Knights",2,14
+"Division",7,"Seattle Orcas","Phoenix Scorpions","Protected Rival","Division D","Division D",2,2,"Phoenix Scorpions","Seattle Orcas","Phoenix Scorpions|||Seattle Orcas",2,15
+"Division",7,"San Diego Sharks","Portland Pioneers","Protected Rival","Division D","Division D",2,2,"San Diego Sharks","Portland Pioneers","Portland Pioneers|||San Diego Sharks",2,16
+"Division",5,"Atlanta Firebirds","Baltimore Brigade","Division","Division A","Division A",3,5,"Atlanta Firebirds","Baltimore Brigade","Atlanta Firebirds|||Baltimore Brigade",1,17
+"Division",5,"Boston Admirals","Austin Outlaws","Division","Division A","Division A",3,5,"Austin Outlaws","Boston Admirals","Austin Outlaws|||Boston Admirals",1,18
+"Division",5,"Detroit Motors","Chicago Cougars","Division","Division B","Division B",3,5,"Chicago Cougars","Detroit Motors","Chicago Cougars|||Detroit Motors",1,19
+"Division",5,"Dallas Wranglers","Denver Peaks","Division","Division B","Division B",3,5,"Dallas Wranglers","Denver Peaks","Dallas Wranglers|||Denver Peaks",1,20
+"Division",5,"Miami Waves","Nashville Knights","Division","Division C","Division C",3,5,"Nashville Knights","Miami Waves","Miami Waves|||Nashville Knights",1,21
+"Division",5,"Portland Pioneers","Phoenix Scorpions","Division","Division D","Division D",3,5,"Phoenix Scorpions","Portland Pioneers","Phoenix Scorpions|||Portland Pioneers",1,22
+"Division",5,"San Diego Sharks","Seattle Orcas","Division","Division D","Division D",3,5,"San Diego Sharks","Seattle Orcas","San Diego Sharks|||Seattle Orcas",1,23
+"Division",5,"Virginia Royals","Minneapolis Northstars","Division","Division C","Division C",3,5,"Virginia Royals","Minneapolis Northstars","Minneapolis Northstars|||Virginia Royals",1,24
+"Interdivision",3,"Austin Outlaws","Seattle Orcas","Interdivision","Division A","Division D",4,6,"Austin Outlaws","Seattle Orcas","Austin Outlaws|||Seattle Orcas",1,25
+"Interdivision",3,"Baltimore Brigade","San Diego Sharks","Interdivision","Division A","Division D",4,6,"Baltimore Brigade","San Diego Sharks","Baltimore Brigade|||San Diego Sharks",1,26
+"Interdivision",3,"Boston Admirals","Phoenix Scorpions","Interdivision","Division A","Division D",4,6,"Boston Admirals","Phoenix Scorpions","Boston Admirals|||Phoenix Scorpions",1,27
+"Interdivision",3,"Chicago Cougars","Virginia Royals","Interdivision","Division B","Division C",4,6,"Chicago Cougars","Virginia Royals","Chicago Cougars|||Virginia Royals",1,28
+"Interdivision",3,"Detroit Motors","Nashville Knights","Interdivision","Division B","Division C",4,6,"Detroit Motors","Nashville Knights","Detroit Motors|||Nashville Knights",1,29
+"Interdivision",3,"Dallas Wranglers","Miami Waves","Interdivision","Division B","Division C",4,6,"Miami Waves","Dallas Wranglers","Dallas Wranglers|||Miami Waves",1,30
+"Interdivision",3,"Denver Peaks","Minneapolis Northstars","Interdivision","Division B","Division C",4,6,"Minneapolis Northstars","Denver Peaks","Denver Peaks|||Minneapolis Northstars",1,31
+"Interdivision",3,"Atlanta Firebirds","Portland Pioneers","Interdivision","Division A","Division D",4,6,"Portland Pioneers","Atlanta Firebirds","Atlanta Firebirds|||Portland Pioneers",1,32
+"Division",3,"Atlanta Firebirds","Austin Outlaws","Division","Division A","Division A",5,7,"Austin Outlaws","Atlanta Firebirds","Atlanta Firebirds|||Austin Outlaws",1,33
+"Division",3,"Boston Admirals","Baltimore Brigade","Division","Division A","Division A",5,7,"Baltimore Brigade","Boston Admirals","Baltimore Brigade|||Boston Admirals",1,34
+"Division",3,"Dallas Wranglers","Chicago Cougars","Division","Division B","Division B",5,7,"Chicago Cougars","Dallas Wranglers","Chicago Cougars|||Dallas Wranglers",1,35
+"Division",3,"Detroit Motors","Denver Peaks","Division","Division B","Division B",5,7,"Detroit Motors","Denver Peaks","Denver Peaks|||Detroit Motors",1,36
+"Division",3,"Miami Waves","Minneapolis Northstars","Division","Division C","Division C",5,7,"Minneapolis Northstars","Miami Waves","Miami Waves|||Minneapolis Northstars",1,37
+"Division",3,"Portland Pioneers","Seattle Orcas","Division","Division D","Division D",5,7,"Portland Pioneers","Seattle Orcas","Portland Pioneers|||Seattle Orcas",1,38
+"Division",3,"San Diego Sharks","Phoenix Scorpions","Division","Division D","Division D",5,7,"San Diego Sharks","Phoenix Scorpions","Phoenix Scorpions|||San Diego Sharks",1,39
+"Division",3,"Virginia Royals","Nashville Knights","Division","Division C","Division C",5,7,"Virginia Royals","Nashville Knights","Nashville Knights|||Virginia Royals",1,40
+"Division",1,"Baltimore Brigade","Austin Outlaws","Protected Rival","Division A","Division A",6,8,"Baltimore Brigade","Austin Outlaws","Austin Outlaws|||Baltimore Brigade",3,41
+"Division",1,"Atlanta Firebirds","Boston Admirals","Protected Rival","Division A","Division A",6,8,"Boston Admirals","Atlanta Firebirds","Atlanta Firebirds|||Boston Admirals",3,42
+"Division",1,"Dallas Wranglers","Detroit Motors","Protected Rival","Division B","Division B",6,8,"Dallas Wranglers","Detroit Motors","Dallas Wranglers|||Detroit Motors",3,43
+"Division",1,"Denver Peaks","Chicago Cougars","Protected Rival","Division B","Division B",6,8,"Denver Peaks","Chicago Cougars","Chicago Cougars|||Denver Peaks",3,44
+"Division",1,"Nashville Knights","Minneapolis Northstars","Protected Rival","Division C","Division C",6,8,"Nashville Knights","Minneapolis Northstars","Minneapolis Northstars|||Nashville Knights",3,45
+"Division",1,"San Diego Sharks","Portland Pioneers","Protected Rival","Division D","Division D",6,8,"San Diego Sharks","Portland Pioneers","Portland Pioneers|||San Diego Sharks",3,46
+"Division",1,"Seattle Orcas","Phoenix Scorpions","Protected Rival","Division D","Division D",6,8,"Seattle Orcas","Phoenix Scorpions","Phoenix Scorpions|||Seattle Orcas",3,47
+"Division",1,"Miami Waves","Virginia Royals","Protected Rival","Division C","Division C",6,8,"Virginia Royals","Miami Waves","Miami Waves|||Virginia Royals",3,48
+"Interdivision",4,"Boston Admirals","Minneapolis Northstars","Interdivision","Division A","Division C",7,9,"Boston Admirals","Minneapolis Northstars","Boston Admirals|||Minneapolis Northstars",1,49
+"Interdivision",4,"Denver Peaks","Phoenix Scorpions","Interdivision","Division B","Division D",7,9,"Denver Peaks","Phoenix Scorpions","Denver Peaks|||Phoenix Scorpions",1,50
+"Interdivision",4,"Austin Outlaws","Miami Waves","Interdivision","Division A","Division C",7,9,"Miami Waves","Austin Outlaws","Austin Outlaws|||Miami Waves",1,51
+"Interdivision",4,"Baltimore Brigade","Nashville Knights","Interdivision","Division A","Division C",7,9,"Nashville Knights","Baltimore Brigade","Baltimore Brigade|||Nashville Knights",1,52
+"Interdivision",4,"Dallas Wranglers","Portland Pioneers","Interdivision","Division B","Division D",7,9,"Portland Pioneers","Dallas Wranglers","Dallas Wranglers|||Portland Pioneers",1,53
+"Interdivision",4,"Chicago Cougars","San Diego Sharks","Interdivision","Division B","Division D",7,9,"San Diego Sharks","Chicago Cougars","Chicago Cougars|||San Diego Sharks",1,54
+"Interdivision",4,"Detroit Motors","Seattle Orcas","Interdivision","Division B","Division D",7,9,"Seattle Orcas","Detroit Motors","Detroit Motors|||Seattle Orcas",1,55
+"Interdivision",4,"Atlanta Firebirds","Virginia Royals","Interdivision","Division A","Division C",7,9,"Virginia Royals","Atlanta Firebirds","Atlanta Firebirds|||Virginia Royals",1,56
+"Interdivision",5,"Atlanta Firebirds","Seattle Orcas","Interdivision","Division A","Division D",8,10,"Atlanta Firebirds","Seattle Orcas","Atlanta Firebirds|||Seattle Orcas",1,57
+"Interdivision",5,"Boston Admirals","San Diego Sharks","Interdivision","Division A","Division D",8,10,"Boston Admirals","San Diego Sharks","Boston Admirals|||San Diego Sharks",1,58
+"Interdivision",5,"Dallas Wranglers","Virginia Royals","Interdivision","Division B","Division C",8,10,"Dallas Wranglers","Virginia Royals","Dallas Wranglers|||Virginia Royals",1,59
+"Interdivision",5,"Detroit Motors","Minneapolis Northstars","Interdivision","Division B","Division C",8,10,"Detroit Motors","Minneapolis Northstars","Detroit Motors|||Minneapolis Northstars",1,60
+"Interdivision",5,"Chicago Cougars","Miami Waves","Interdivision","Division B","Division C",8,10,"Miami Waves","Chicago Cougars","Chicago Cougars|||Miami Waves",1,61
+"Interdivision",5,"Denver Peaks","Nashville Knights","Interdivision","Division B","Division C",8,10,"Nashville Knights","Denver Peaks","Denver Peaks|||Nashville Knights",1,62
+"Interdivision",5,"Austin Outlaws","Phoenix Scorpions","Interdivision","Division A","Division D",8,10,"Phoenix Scorpions","Austin Outlaws","Austin Outlaws|||Phoenix Scorpions",1,63
+"Interdivision",5,"Baltimore Brigade","Portland Pioneers","Interdivision","Division A","Division D",8,10,"Portland Pioneers","Baltimore Brigade","Baltimore Brigade|||Portland Pioneers",1,64
+"Interdivision",1,"Baltimore Brigade","Denver Peaks","Interdivision","Division A","Division B",9,11,"Baltimore Brigade","Denver Peaks","Baltimore Brigade|||Denver Peaks",1,65
+"Interdivision",1,"Austin Outlaws","Chicago Cougars","Interdivision","Division A","Division B",9,11,"Chicago Cougars","Austin Outlaws","Austin Outlaws|||Chicago Cougars",1,66
+"Interdivision",1,"Boston Admirals","Dallas Wranglers","Interdivision","Division A","Division B",9,11,"Dallas Wranglers","Boston Admirals","Boston Admirals|||Dallas Wranglers",1,67
+"Interdivision",1,"Atlanta Firebirds","Detroit Motors","Interdivision","Division A","Division B",9,11,"Detroit Motors","Atlanta Firebirds","Atlanta Firebirds|||Detroit Motors",1,68
+"Interdivision",1,"Minneapolis Northstars","San Diego Sharks","Interdivision","Division C","Division D",9,11,"Minneapolis Northstars","San Diego Sharks","Minneapolis Northstars|||San Diego Sharks",1,69
+"Interdivision",1,"Nashville Knights","Phoenix Scorpions","Interdivision","Division C","Division D",9,11,"Phoenix Scorpions","Nashville Knights","Nashville Knights|||Phoenix Scorpions",1,70
+"Interdivision",1,"Miami Waves","Seattle Orcas","Interdivision","Division C","Division D",9,11,"Seattle Orcas","Miami Waves","Miami Waves|||Seattle Orcas",1,71
+"Interdivision",1,"Virginia Royals","Portland Pioneers","Interdivision","Division C","Division D",9,11,"Virginia Royals","Portland Pioneers","Portland Pioneers|||Virginia Royals",1,72
+"Division",2,"Atlanta Firebirds","Baltimore Brigade","Division","Division A","Division A",10,12,"Atlanta Firebirds","Baltimore Brigade","Atlanta Firebirds|||Baltimore Brigade",2,73
+"Division",2,"Boston Admirals","Austin Outlaws","Division","Division A","Division A",10,12,"Boston Admirals","Austin Outlaws","Austin Outlaws|||Boston Admirals",2,74
+"Division",2,"Dallas Wranglers","Denver Peaks","Division","Division B","Division B",10,12,"Dallas Wranglers","Denver Peaks","Dallas Wranglers|||Denver Peaks",2,75
+"Division",2,"Detroit Motors","Chicago Cougars","Division","Division B","Division B",10,12,"Detroit Motors","Chicago Cougars","Chicago Cougars|||Detroit Motors",2,76
+"Division",2,"Miami Waves","Nashville Knights","Division","Division C","Division C",10,12,"Miami Waves","Nashville Knights","Miami Waves|||Nashville Knights",2,77
+"Division",2,"Virginia Royals","Minneapolis Northstars","Division","Division C","Division C",10,12,"Minneapolis Northstars","Virginia Royals","Minneapolis Northstars|||Virginia Royals",2,78
+"Division",2,"Portland Pioneers","Phoenix Scorpions","Division","Division D","Division D",10,12,"Phoenix Scorpions","Portland Pioneers","Phoenix Scorpions|||Portland Pioneers",2,79
+"Division",2,"San Diego Sharks","Seattle Orcas","Division","Division D","Division D",10,12,"Seattle Orcas","San Diego Sharks","San Diego Sharks|||Seattle Orcas",2,80
+"Interdivision",2,"Atlanta Firebirds","Miami Waves","Interdivision","Division A","Division C",11,13,"Atlanta Firebirds","Miami Waves","Atlanta Firebirds|||Miami Waves",1,81
+"Interdivision",2,"Austin Outlaws","Virginia Royals","Interdivision","Division A","Division C",11,13,"Austin Outlaws","Virginia Royals","Austin Outlaws|||Virginia Royals",1,82
+"Interdivision",2,"Baltimore Brigade","Minneapolis Northstars","Interdivision","Division A","Division C",11,13,"Baltimore Brigade","Minneapolis Northstars","Baltimore Brigade|||Minneapolis Northstars",1,83
+"Interdivision",2,"Chicago Cougars","Phoenix Scorpions","Interdivision","Division B","Division D",11,13,"Chicago Cougars","Phoenix Scorpions","Chicago Cougars|||Phoenix Scorpions",1,84
+"Interdivision",2,"Denver Peaks","Portland Pioneers","Interdivision","Division B","Division D",11,13,"Denver Peaks","Portland Pioneers","Denver Peaks|||Portland Pioneers",1,85
+"Interdivision",2,"Boston Admirals","Nashville Knights","Interdivision","Division A","Division C",11,13,"Nashville Knights","Boston Admirals","Boston Admirals|||Nashville Knights",1,86
+"Interdivision",2,"Detroit Motors","San Diego Sharks","Interdivision","Division B","Division D",11,13,"San Diego Sharks","Detroit Motors","Detroit Motors|||San Diego Sharks",1,87
+"Interdivision",2,"Dallas Wranglers","Seattle Orcas","Interdivision","Division B","Division D",11,13,"Seattle Orcas","Dallas Wranglers","Dallas Wranglers|||Seattle Orcas",1,88
+"Division",6,"Atlanta Firebirds","Austin Outlaws","Division","Division A","Division A",12,14,"Austin Outlaws","Atlanta Firebirds","Atlanta Firebirds|||Austin Outlaws",2,89
+"Division",6,"Boston Admirals","Baltimore Brigade","Division","Division A","Division A",12,14,"Boston Admirals","Baltimore Brigade","Baltimore Brigade|||Boston Admirals",2,90
+"Division",6,"Dallas Wranglers","Chicago Cougars","Division","Division B","Division B",12,14,"Chicago Cougars","Dallas Wranglers","Chicago Cougars|||Dallas Wranglers",2,91
+"Division",6,"Detroit Motors","Denver Peaks","Division","Division B","Division B",12,14,"Denver Peaks","Detroit Motors","Denver Peaks|||Detroit Motors",2,92
+"Division",6,"Miami Waves","Minneapolis Northstars","Division","Division C","Division C",12,14,"Miami Waves","Minneapolis Northstars","Miami Waves|||Minneapolis Northstars",2,93
+"Division",6,"Virginia Royals","Nashville Knights","Division","Division C","Division C",12,14,"Nashville Knights","Virginia Royals","Nashville Knights|||Virginia Royals",2,94
+"Division",6,"San Diego Sharks","Phoenix Scorpions","Division","Division D","Division D",12,14,"Phoenix Scorpions","San Diego Sharks","Phoenix Scorpions|||San Diego Sharks",2,95
+"Division",6,"Portland Pioneers","Seattle Orcas","Division","Division D","Division D",12,14,"Portland Pioneers","Seattle Orcas","Portland Pioneers|||Seattle Orcas",2,96

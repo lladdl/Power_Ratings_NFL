@@ -1,0 +1,121 @@
+"pair_key","team1","team2","games"
+"Austin Outlaws|||Baltimore Brigade","Austin Outlaws","Baltimore Brigade",3
+"Atlanta Firebirds|||Boston Admirals","Boston Admirals","Atlanta Firebirds",3
+"Chicago Cougars|||Denver Peaks","Chicago Cougars","Denver Peaks",3
+"Dallas Wranglers|||Detroit Motors","Dallas Wranglers","Detroit Motors",3
+"Minneapolis Northstars|||Nashville Knights","Nashville Knights","Minneapolis Northstars",3
+"Phoenix Scorpions|||Seattle Orcas","Phoenix Scorpions","Seattle Orcas",3
+"Portland Pioneers|||San Diego Sharks","Portland Pioneers","San Diego Sharks",3
+"Miami Waves|||Virginia Royals","Virginia Royals","Miami Waves",3
+"Atlanta Firebirds|||Baltimore Brigade","Atlanta Firebirds","Baltimore Brigade",2
+"Atlanta Firebirds|||Austin Outlaws","Austin Outlaws","Atlanta Firebirds",2
+"Austin Outlaws|||Boston Admirals","Austin Outlaws","Boston Admirals",2
+"Baltimore Brigade|||Boston Admirals","Boston Admirals","Baltimore Brigade",2
+"Chicago Cougars|||Dallas Wranglers","Chicago Cougars","Dallas Wranglers",2
+"Chicago Cougars|||Detroit Motors","Chicago Cougars","Detroit Motors",2
+"Dallas Wranglers|||Denver Peaks","Denver Peaks","Dallas Wranglers",2
+"Denver Peaks|||Detroit Motors","Denver Peaks","Detroit Motors",2
+"Miami Waves|||Minneapolis Northstars","Miami Waves","Minneapolis Northstars",2
+"Miami Waves|||Nashville Knights","Nashville Knights","Miami Waves",2
+"Nashville Knights|||Virginia Royals","Nashville Knights","Virginia Royals",2
+"Phoenix Scorpions|||Portland Pioneers","Portland Pioneers","Phoenix Scorpions",2
+"Portland Pioneers|||Seattle Orcas","Portland Pioneers","Seattle Orcas",2
+"Phoenix Scorpions|||San Diego Sharks","San Diego Sharks","Phoenix Scorpions",2
+"San Diego Sharks|||Seattle Orcas","San Diego Sharks","Seattle Orcas",2
+"Minneapolis Northstars|||Virginia Royals","Virginia Royals","Minneapolis Northstars",2
+"Atlanta Firebirds|||Detroit Motors","Atlanta Firebirds","Detroit Motors",1
+"Atlanta Firebirds|||Miami Waves","Atlanta Firebirds","Miami Waves",1
+"Atlanta Firebirds|||Portland Pioneers","Atlanta Firebirds","Portland Pioneers",1
+"Atlanta Firebirds|||Seattle Orcas","Atlanta Firebirds","Seattle Orcas",1
+"Atlanta Firebirds|||Virginia Royals","Atlanta Firebirds","Virginia Royals",1
+"Austin Outlaws|||Chicago Cougars","Austin Outlaws","Chicago Cougars",1
+"Austin Outlaws|||Miami Waves","Austin Outlaws","Miami Waves",1
+"Austin Outlaws|||Phoenix Scorpions","Austin Outlaws","Phoenix Scorpions",1
+"Austin Outlaws|||Seattle Orcas","Austin Outlaws","Seattle Orcas",1
+"Austin Outlaws|||Virginia Royals","Austin Outlaws","Virginia Royals",1
+"Baltimore Brigade|||Denver Peaks","Baltimore Brigade","Denver Peaks",1
+"Baltimore Brigade|||Minneapolis Northstars","Baltimore Brigade","Minneapolis Northstars",1
+"Baltimore Brigade|||Nashville Knights","Baltimore Brigade","Nashville Knights",1
+"Baltimore Brigade|||Portland Pioneers","Baltimore Brigade","Portland Pioneers",1
+"Baltimore Brigade|||San Diego Sharks","Baltimore Brigade","San Diego Sharks",1
+"Boston Admirals|||Dallas Wranglers","Boston Admirals","Dallas Wranglers",1
+"Boston Admirals|||Minneapolis Northstars","Boston Admirals","Minneapolis Northstars",1
+"Boston Admirals|||Nashville Knights","Boston Admirals","Nashville Knights",1
+"Boston Admirals|||Phoenix Scorpions","Boston Admirals","Phoenix Scorpions",1
+"Boston Admirals|||San Diego Sharks","Boston Admirals","San Diego Sharks",1
+"Chicago Cougars|||Miami Waves","Chicago Cougars","Miami Waves",1
+"Chicago Cougars|||Phoenix Scorpions","Chicago Cougars","Phoenix Scorpions",1
+"Chicago Cougars|||San Diego Sharks","Chicago Cougars","San Diego Sharks",1
+"Chicago Cougars|||Virginia Royals","Chicago Cougars","Virginia Royals",1
+"Dallas Wranglers|||Miami Waves","Dallas Wranglers","Miami Waves",1
+"Dallas Wranglers|||Portland Pioneers","Dallas Wranglers","Portland Pioneers",1
+"Dallas Wranglers|||Seattle Orcas","Dallas Wranglers","Seattle Orcas",1
+"Dallas Wranglers|||Virginia Royals","Dallas Wranglers","Virginia Royals",1
+"Denver Peaks|||Minneapolis Northstars","Denver Peaks","Minneapolis Northstars",1
+"Denver Peaks|||Nashville Knights","Denver Peaks","Nashville Knights",1
+"Denver Peaks|||Phoenix Scorpions","Denver Peaks","Phoenix Scorpions",1
+"Denver Peaks|||Portland Pioneers","Denver Peaks","Portland Pioneers",1
+"Detroit Motors|||Minneapolis Northstars","Detroit Motors","Minneapolis Northstars",1
+"Detroit Motors|||Nashville Knights","Detroit Motors","Nashville Knights",1
+"Detroit Motors|||San Diego Sharks","Detroit Motors","San Diego Sharks",1
+"Detroit Motors|||Seattle Orcas","Detroit Motors","Seattle Orcas",1
+"Miami Waves|||Seattle Orcas","Miami Waves","Seattle Orcas",1
+"Minneapolis Northstars|||San Diego Sharks","Minneapolis Northstars","San Diego Sharks",1
+"Nashville Knights|||Phoenix Scorpions","Nashville Knights","Phoenix Scorpions",1
+"Portland Pioneers|||Virginia Royals","Virginia Royals","Portland Pioneers",1
+"Atlanta Firebirds|||Chicago Cougars","Atlanta Firebirds","Chicago Cougars",0
+"Atlanta Firebirds|||Dallas Wranglers","Atlanta Firebirds","Dallas Wranglers",0
+"Atlanta Firebirds|||Denver Peaks","Atlanta Firebirds","Denver Peaks",0
+"Atlanta Firebirds|||Minneapolis Northstars","Atlanta Firebirds","Minneapolis Northstars",0
+"Atlanta Firebirds|||Nashville Knights","Atlanta Firebirds","Nashville Knights",0
+"Atlanta Firebirds|||Phoenix Scorpions","Atlanta Firebirds","Phoenix Scorpions",0
+"Atlanta Firebirds|||San Diego Sharks","Atlanta Firebirds","San Diego Sharks",0
+"Austin Outlaws|||Dallas Wranglers","Austin Outlaws","Dallas Wranglers",0
+"Austin Outlaws|||Denver Peaks","Austin Outlaws","Denver Peaks",0
+"Austin Outlaws|||Detroit Motors","Austin Outlaws","Detroit Motors",0
+"Austin Outlaws|||Minneapolis Northstars","Austin Outlaws","Minneapolis Northstars",0
+"Austin Outlaws|||Nashville Knights","Austin Outlaws","Nashville Knights",0
+"Austin Outlaws|||Portland Pioneers","Austin Outlaws","Portland Pioneers",0
+"Austin Outlaws|||San Diego Sharks","Austin Outlaws","San Diego Sharks",0
+"Baltimore Brigade|||Chicago Cougars","Baltimore Brigade","Chicago Cougars",0
+"Baltimore Brigade|||Dallas Wranglers","Baltimore Brigade","Dallas Wranglers",0
+"Baltimore Brigade|||Detroit Motors","Baltimore Brigade","Detroit Motors",0
+"Baltimore Brigade|||Miami Waves","Baltimore Brigade","Miami Waves",0
+"Baltimore Brigade|||Phoenix Scorpions","Baltimore Brigade","Phoenix Scorpions",0
+"Baltimore Brigade|||Seattle Orcas","Baltimore Brigade","Seattle Orcas",0
+"Baltimore Brigade|||Virginia Royals","Baltimore Brigade","Virginia Royals",0
+"Boston Admirals|||Chicago Cougars","Boston Admirals","Chicago Cougars",0
+"Boston Admirals|||Denver Peaks","Boston Admirals","Denver Peaks",0
+"Boston Admirals|||Detroit Motors","Boston Admirals","Detroit Motors",0
+"Boston Admirals|||Miami Waves","Boston Admirals","Miami Waves",0
+"Boston Admirals|||Portland Pioneers","Boston Admirals","Portland Pioneers",0
+"Boston Admirals|||Seattle Orcas","Boston Admirals","Seattle Orcas",0
+"Boston Admirals|||Virginia Royals","Boston Admirals","Virginia Royals",0
+"Chicago Cougars|||Minneapolis Northstars","Chicago Cougars","Minneapolis Northstars",0
+"Chicago Cougars|||Nashville Knights","Chicago Cougars","Nashville Knights",0
+"Chicago Cougars|||Portland Pioneers","Chicago Cougars","Portland Pioneers",0
+"Chicago Cougars|||Seattle Orcas","Chicago Cougars","Seattle Orcas",0
+"Dallas Wranglers|||Minneapolis Northstars","Dallas Wranglers","Minneapolis Northstars",0
+"Dallas Wranglers|||Nashville Knights","Dallas Wranglers","Nashville Knights",0
+"Dallas Wranglers|||Phoenix Scorpions","Dallas Wranglers","Phoenix Scorpions",0
+"Dallas Wranglers|||San Diego Sharks","Dallas Wranglers","San Diego Sharks",0
+"Denver Peaks|||Miami Waves","Denver Peaks","Miami Waves",0
+"Denver Peaks|||San Diego Sharks","Denver Peaks","San Diego Sharks",0
+"Denver Peaks|||Seattle Orcas","Denver Peaks","Seattle Orcas",0
+"Denver Peaks|||Virginia Royals","Denver Peaks","Virginia Royals",0
+"Detroit Motors|||Miami Waves","Detroit Motors","Miami Waves",0
+"Detroit Motors|||Phoenix Scorpions","Detroit Motors","Phoenix Scorpions",0
+"Detroit Motors|||Portland Pioneers","Detroit Motors","Portland Pioneers",0
+"Detroit Motors|||Virginia Royals","Detroit Motors","Virginia Royals",0
+"Miami Waves|||Phoenix Scorpions","Miami Waves","Phoenix Scorpions",0
+"Miami Waves|||Portland Pioneers","Miami Waves","Portland Pioneers",0
+"Miami Waves|||San Diego Sharks","Miami Waves","San Diego Sharks",0
+"Minneapolis Northstars|||Phoenix Scorpions","Minneapolis Northstars","Phoenix Scorpions",0
+"Minneapolis Northstars|||Portland Pioneers","Minneapolis Northstars","Portland Pioneers",0
+"Minneapolis Northstars|||Seattle Orcas","Minneapolis Northstars","Seattle Orcas",0
+"Nashville Knights|||Portland Pioneers","Nashville Knights","Portland Pioneers",0
+"Nashville Knights|||San Diego Sharks","Nashville Knights","San Diego Sharks",0
+"Nashville Knights|||Seattle Orcas","Nashville Knights","Seattle Orcas",0
+"Phoenix Scorpions|||Virginia Royals","Virginia Royals","Phoenix Scorpions",0
+"San Diego Sharks|||Virginia Royals","Virginia Royals","San Diego Sharks",0
+"Seattle Orcas|||Virginia Royals","Virginia Royals","Seattle Orcas",0

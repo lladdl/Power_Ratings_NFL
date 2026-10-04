@@ -1,0 +1,8 @@
+"metric","value"
+"postseason_games",578
+"home_win_rate",0.673010380622837
+"playoff_expected_margin_slope",0.124436937520471
+"equal_team_neutral_probability",0.5
+"retrospective_brier",0.216839658028331
+"retrospective_log_loss",0.624563179464076
+"retrospective_accuracy",0.667820069204152

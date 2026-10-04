@@ -1,0 +1,25 @@
+"noise_scenario","true_drift_sd","best_Brier_model","best_Brier","best_LogLoss_model","best_LogLoss"
+"Gaussian",0,"Empirical Logistic",0.195601910821494,"Empirical Logistic",0.588481255460325
+"Gaussian",0.25,"Empirical Logistic",0.196454751638551,"Empirical Logistic",0.58729150213426
+"Gaussian",0.5,"Empirical Logistic",0.198314030239688,"Empirical Logistic",0.591496660166118
+"Gaussian",0.75,"Empirical Logistic",0.197033203155406,"Empirical Logistic",0.590906048381063
+"Gaussian",1,"Empirical Logistic",0.205545685963976,"Empirical Logistic",0.610190856489869
+"Gaussian",1.5,"Empirical Logistic",0.207340156049729,"Empirical Logistic",0.614987529898787
+"Student_t8",0,"Empirical Logistic",0.195258493766161,"Empirical Logistic",0.587302981694577
+"Student_t8",0.25,"Empirical Logistic",0.194467714465193,"Empirical Logistic",0.584162272991159
+"Student_t8",0.5,"Empirical Logistic",0.195514705479432,"Empirical Logistic",0.585337888430425
+"Student_t8",0.75,"Empirical Logistic",0.193998288686696,"Empirical Logistic",0.581919578342911
+"Student_t8",1,"Empirical Logistic",0.201089472210109,"Empirical Logistic",0.599833261092267
+"Student_t8",1.5,"Empirical Logistic",0.204256344710873,"Empirical Logistic",0.608306577525827
+"Student_t4",0,"Empirical Logistic",0.186566591591794,"Empirical Logistic",0.565615307144652
+"Student_t4",0.25,"Empirical Logistic",0.186415183139098,"Empirical Logistic",0.565472741796747
+"Student_t4",0.5,"Empirical Logistic",0.185652979629806,"Empirical Logistic",0.563952519387326
+"Student_t4",0.75,"Empirical Logistic",0.185039452114147,"Normal",0.561858863796295
+"Student_t4",1,"Empirical Logistic",0.19072715224996,"Empirical Logistic",0.575309308279411
+"Student_t4",1.5,"Empirical Logistic",0.19744185153021,"Empirical Logistic",0.592372267192919
+"Student_t3",0,"Logistic Variance-Matched",0.172944398546679,"Student-t6",0.530607568049083
+"Student_t3",0.25,"Normal",0.174843386878682,"Student-t8",0.536561065073789
+"Student_t3",0.5,"Student-t8",0.17652033367409,"Logistic Variance-Matched",0.540098280872123
+"Student_t3",0.75,"Normal",0.176045336537569,"Student-t8",0.53911018745905
+"Student_t3",1,"Normal",0.179108104896773,"Student-t8",0.546714363546747
+"Student_t3",1.5,"Empirical Logistic",0.187012615124472,"Empirical Logistic",0.567902324760585

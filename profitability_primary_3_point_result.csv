@@ -1,0 +1,2 @@
+edge_threshold,evaluation_start_season,evaluation_end_season,bets,wins,losses,pushes,ats_win_pct,ats_ci_low_pct,ats_ci_high_pct,break_even_pct,profit_units,roi_pct,avg_abs_edge,median_abs_edge,p_value_above_break_even
+3,2000,2025,2345,1131,1158,56,49.41022280471822,47.36201996229188,51.45842564714456,52.38095238095239,-129.81818181818377,-5.535956580732783,5.089821663832603,4.5357105233690485,0.9979157016134286

@@ -1,0 +1,2 @@
+games,model_MAE,vegas_MAE,MAE_difference,model_RMSE,vegas_RMSE,RMSE_difference,model_mean_bias,vegas_mean_bias,model_closer_games,vegas_closer_games,tied_games,model_closer_pct,vegas_closer_pct,mean_model_accuracy_advantage
+6306,10.718233082223687,10.282350142721192,0.4358829395024948,13.715790400453415,13.196190007002752,0.5196003934506628,-0.0952951380335744,-0.091103710751663,2853,3453,0,45.24262607040914,54.75737392959087,-0.43588293950246904

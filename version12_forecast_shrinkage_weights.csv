@@ -1,0 +1,6 @@
+"games_played_bucket","calibration_games","learned_forecast_weight","fixed_probability_weight"
+1,427,0.57847216292852,0.25
+2,416,0.517991119598699,0.5
+3,398,0.537557909877744,0.75
+4,384,0.695156760274048,1
+5,4914,0.766195729285212,1

@@ -1,0 +1,2 @@
+"forecast_games","non_tied_forecast_games","margin_MAE","margin_RMSE","margin_bias","margin_correlation","all_score_MAE","all_score_RMSE","total_score_MAE","total_score_RMSE","winner_accuracy","brier_score","log_loss","mean_predicted_home_win_probability","actual_home_win_rate_soft"
+64,61,8.52053449409063,11.2654263425183,0.547268946933939,0.385657731331453,6.2476946378281,8.02099266830132,9.3066580736492,11.4208345956444,0.573770491803279,0.225141754458981,0.674404663561826,0.593903425066635,0.6015625

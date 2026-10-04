@@ -1,0 +1,2 @@
+"season","through_week","games","margin_MAE","margin_RMSE","margin_bias","winner_accuracy","brier_score","log_loss"
+2026,3,32,11.0120587853706,13.9953848625221,1.28920066372224,0.5625,0.251293652953112,0.695430540589623

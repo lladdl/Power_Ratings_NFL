@@ -1,0 +1,2 @@
+seasons,mean_season_MAE_difference,ci_low,ci_high,season_t_p_value,season_wilcoxon_p_value,full_better_seasons,lean_better_seasons
+26,0.007464585314669375,-0.029852387269449707,0.04478155789878846,0.6838699639977299,0.8989484033099814,13,13

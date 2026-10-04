@@ -1,0 +1,16 @@
+# macOS metadata
+.DS_Store
+
+# Local R session state and command history
+.RData
+.Rhistory
+.Ruserdata
+.Rproj.user/
+
+# Local credentials and environment settings
+.env
+.env.*
+!.env.example
+.Renviron
+*.pem
+*.key

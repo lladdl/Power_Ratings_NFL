@@ -1,0 +1,21 @@
+"component_scenario","noise_scenario","best_RMSE_model","best_RMSE","best_MAE_model","best_MAE","narrowest_calibrated_95_model","calibrated_95_width","calibrated_95_coverage"
+"Defense Heavy","Gaussian","Score OffDef Ridge",2.19148283246647,"Score OffDef Ridge",1.75491490546329,"Margin No Decay",8.45840547329431,0.936875
+"Equal","Gaussian","Score OffDef Ridge",2.23040269738696,"Score OffDef Ridge",1.77592842993155,"Score OffDef Ridge",8.45228195964884,0.94
+"Offense Heavy","Gaussian","Score OffDef Ridge",2.21010501118655,"Score OffDef Ridge",1.77909689432472,"Score OffDef Ridge",8.37101653417689,0.941875
+"Strong Defense","Gaussian","Score OffDef Ridge",2.2045301160824,"Score OffDef Ridge",1.76276603827803,"Score OffDef Ridge",8.63030890070934,0.950625
+"Strong Offense","Gaussian","Score OffDef Ridge",2.19669106932206,"Score OffDef Ridge",1.7561092851001,"Score OffDef Ridge",8.53918139031346,0.955625
+"Defense Heavy","Student_t3","Score OffDef Huber",1.79624662762927,"Score OffDef Huber",1.42351953817758,"Score OffDef Huber",7.07141527100881,0.94375
+"Equal","Student_t3","Score OffDef Huber",1.76901345516319,"Score OffDef Huber",1.41457088628044,"Score OffDef Huber",6.80559898108636,0.94375
+"Offense Heavy","Student_t3","Score OffDef Huber",1.7768676568259,"Score OffDef Huber",1.41487226685706,"Score OffDef Huber",7.00365606045314,0.948125
+"Strong Defense","Student_t3","Score OffDef Huber",1.76443767332577,"Score OffDef Huber",1.41100548893652,"Score OffDef Huber",6.8199105152848,0.9425
+"Strong Offense","Student_t3","Score OffDef Huber",1.77839400934987,"Score OffDef Huber",1.41206836344912,"Score OffDef Huber",6.86848021626598,0.9325
+"Defense Heavy","Student_t4","Score OffDef Huber",1.98518294336263,"Score OffDef Huber",1.57520644681528,"Score OffDef Huber",7.8902149508377,0.955
+"Equal","Student_t4","Score OffDef Huber",2.00155460557258,"Score OffDef Huber",1.58226489501303,"Score OffDef Huber",7.69430152379266,0.941875
+"Offense Heavy","Student_t4","Score OffDef Huber",1.96693063260508,"Score OffDef Huber",1.55577578807783,"Score OffDef Huber",7.72296124026428,0.94875
+"Strong Defense","Student_t4","Score OffDef Huber",1.94095948648651,"Score OffDef Huber",1.5391004474793,"Score OffDef Huber",7.5677920424641,0.945625
+"Strong Offense","Student_t4","Score OffDef Huber",1.96024841339511,"Score OffDef Huber",1.56544016155179,"Score OffDef Huber",7.87324538622923,0.960625
+"Defense Heavy","Student_t8","Score OffDef Huber",2.13650760610327,"Score OffDef Huber",1.70786882043849,"Score OffDef Huber",8.71861419849362,0.96375
+"Equal","Student_t8","Score OffDef Huber",2.13620081407895,"Score OffDef Huber",1.69972049191033,"Margin No Decay",7.92101410414579,0.929375
+"Offense Heavy","Student_t8","Score OffDef Huber",2.12411835807715,"Score OffDef Huber",1.69087044082471,"Score OffDef Huber",8.43064833946332,0.9475
+"Strong Defense","Student_t8","Score OffDef Huber",2.1231351045227,"Score OffDef Huber",1.69434556770459,"Score OffDef Ridge",8.10148102316035,0.9325
+"Strong Offense","Student_t8","Score OffDef Huber",2.14342720362256,"Score OffDef Huber",1.70413319139849,"Score OffDef Huber",8.33029857430319,0.949375

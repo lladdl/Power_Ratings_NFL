@@ -1,0 +1,2 @@
+"seasons","games","raw_margin_MAE","raw_margin_RMSE","forecast_margin_MAE","forecast_margin_RMSE","brier_score","log_loss"
+"1999-2025",6539,10.8434068785072,13.798005374046,10.6734513374251,13.6588729642866,0.223220509037638,0.637374144650338

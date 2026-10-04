@@ -1,0 +1,11 @@
+item,value
+first_season,1970
+last_season,2025
+number_of_seasons,56
+historical_1970_1998_rows,808
+modern_1999_2025_rows,861
+combined_team_seasons,1669
+duplicate_season_team_rows,0
+all_seasons_present,1
+all_ratings_finite,1
+all_season_z_finite,1
